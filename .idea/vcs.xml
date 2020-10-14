@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Crud/CRUD-SQLite" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Curso_Moviles" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Examen_Moviles/ex_one/AppVenta" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Examen_Moviles/java_micro/ApiSpring" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Examen_Moviles/node_micros/servicios_nodejs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Examen_Moviles/piton_microser" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bcp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/h_new/ASHangman" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/prueba_game/Hangman" vcs="Git" />
+  </component>
+</project>
